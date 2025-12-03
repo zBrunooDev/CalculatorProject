@@ -9,8 +9,8 @@ namespace CalculatorProject
 {
     class Program
     {
+        // Entry point of the application
 
-        
         static void Main(string[] args)
         {
 

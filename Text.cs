@@ -9,11 +9,12 @@ namespace CalculatorProject
 {
     public class Text
     {
-        
+        // Class respinsible for the user interface
+
         public void ShowMenu()
         {
             Console.WriteLine("Calculadora de Funções");
-            Console.WriteLine($"Escolha uma função:/n");
+            Console.WriteLine($"Escolha uma função:n");
             Console.WriteLine($" 1 - Calculadora de juros simples: ");
             Console.WriteLine($" 2 - Calculadora de juros compostos: ");
             Console.WriteLine($" 3 - Calculadora de economia mensal: ");
